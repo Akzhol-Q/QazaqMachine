@@ -1,0 +1,24 @@
+.about{
+    width: 400px;
+    height: 400px;
+    margin-top:100px;
+    margin-left: 100px;
+    background-color: black;
+    font-family: 'Scheherazade New', serif;
+
+}
+.text{
+    margin-left: 30px;
+    padding-top: 50px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Scheherazade New', serif;
+}
+.navbar-nav{
+    font-family: 'Scheherazade New', serif;
+    
+}
+body{
+    background-image: url("https://images.adsttc.com/media/images/58ae/3b96/e58e/ce4c/d100/011f/large_jpg/cEvabloem_Mercedes-Benz-Museum_UNStudio-0155.jpg?1487813515" );
+     
+}

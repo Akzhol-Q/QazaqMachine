@@ -1,0 +1,15 @@
+body {
+    background-image: url("https://www.mercedes-benz.com/en/design/_jcr_content/root/slider_0_copy/sliderchilditems/slideritem_0/image/MQ7-0-image-20190523142249/01-mercedes-benz-design-uebersicht-3400x1440.jpeg ");
+    
+}
+.navbar-nav{
+    font-family: 'Scheherazade New', serif;
+    
+}
+.text{
+    margin-left: 100px;
+    padding-top: 50px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Scheherazade New', serif;
+}
